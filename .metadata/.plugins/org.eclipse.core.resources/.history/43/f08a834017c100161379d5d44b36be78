@@ -1,0 +1,31 @@
+
+public class App {
+
+	public static void main(String[] args) {
+		// 
+
+	int value = 0;
+	int value1 = 30;
+	int value2 = 50;
+	
+	while(value < 101)
+	{
+		System.out.println("Broj je: " + value);
+		value = value + 1;
+	}
+
+	while(value1 < 51)
+    {
+        System.out.println("Broj je: " + value1);
+        
+        value1 = value1 -1;
+    }
+      while(value2 < 50)
+      {  	  
+    	    System.out.println("Broj je: " + value2);
+    value2 = value2 - 1;
+    }
+	}
+
+		
+	}

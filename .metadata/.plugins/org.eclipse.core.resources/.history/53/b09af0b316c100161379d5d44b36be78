@@ -1,0 +1,27 @@
+
+public class App {
+
+	public static void main(String[] args) {
+		// 
+
+	int value = 0;
+	int value1 = 30;
+	int value2 = 50;
+	
+	while(value < 100)
+	
+		System.out.println("Broj je: " + value);
+		value = value + 1;
+    
+
+	while(value1 > 30)
+    {
+        System.out.println("Broj je: " + value1);
+        
+        value = value --;
+    }
+}
+		
+	}
+
+}
