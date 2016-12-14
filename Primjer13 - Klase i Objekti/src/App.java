@@ -1,5 +1,5 @@
 // Naziv klase
-class Student {
+	class Student {
      
     // Atributi klase
     String ime;
